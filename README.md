@@ -27,7 +27,7 @@ The algorithm is given as follows.
 - Choose the edge with the minimum weight i.e. CA. We can't choose CE as it would cause cycle in the graph.
 The graph produces in the step 4 is the minimum spanning tree of the graph shown in the above figure.
 
-## The cost of MST will be calculated as;
+## The cost of MST will be calculated as:
 
 - cost(MST) = 4 + 2 + 1 + 3 = 10 units.
 
