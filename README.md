@@ -19,7 +19,7 @@ The algorithm is given as follows.
 - Construct a minimum spanning tree of the graph given in the following figure by using prim's algorithm.
 ![image](https://user-images.githubusercontent.com/65455865/141949536-337ea2dd-05bf-47c2-82e5-bf4688c0080f.png)
 
-## Solution
+## Solution:
 - Choose a starting vertex B.
 - Add the vertices that are adjacent to A. the edges that connecting the vertices are shown by dotted lines.
 - Choose the edge with the minimum weight among all. i.e. BD and add it to MST. Add the adjacent vertices of D i.e. C and E.
